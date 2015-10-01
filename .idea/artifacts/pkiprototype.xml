@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="pkiprototype">
+    <output-path>$PROJECT_DIR$/out/artifacts/pkiprototype</output-path>
+    <root id="archive" name="pkiprototype.war" />
+  </artifact>
+</component>
